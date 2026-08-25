@@ -1,0 +1,6 @@
+{
+  "name": "gemini gpt and Claude",
+  "description": "An AI chatbot app with Google Login and Firestore database.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
