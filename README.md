@@ -4,7 +4,7 @@
         <div class="block two first">
             <h2>Your title</h2>
             <div class="wrap">
-                //Your content
+                //ai-for-gemini
             </div>
         </div>
     </div>
